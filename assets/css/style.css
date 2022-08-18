@@ -194,7 +194,7 @@ body {
         flex-direction: column-reverse;
         justify-content: flex-end;
         align-items: center;
-        min-width: 330px;
+        max-width: 330px;
         min-height: 780px;
     }
 
